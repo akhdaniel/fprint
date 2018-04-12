@@ -1,6 +1,7 @@
-fprint.c
-fprint.so
-build
-dist
-.*
-!.gitignore
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
